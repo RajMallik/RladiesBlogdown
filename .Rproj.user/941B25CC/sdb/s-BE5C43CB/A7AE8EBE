@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle: rblogs\nauthor: ''\ndate: '2017-06-11'\nslug: rblogs\ncategories: []\ntags: []\n---\n\n# R Ladies blogdown Tutorial\n\n```\n1+(2*9)\n\n\n```",
+    "created" : 1497193135172.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4020004025",
+    "id" : "A7AE8EBE",
+    "lastKnownWriteTime" : 1497194102,
+    "last_content_update" : 1497194102292,
+    "path" : "C:/R/Projects/rblog/content/post/2017-06-11-rblogs.md",
+    "project_path" : "content/post/2017-06-11-rblogs.md",
+    "properties" : {
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}
